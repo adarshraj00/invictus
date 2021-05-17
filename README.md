@@ -67,7 +67,7 @@ The dependency array is left empty to let this effect run only once.
 here i used usestate which helps in referring to the value of n globally
 
 ``` <button onClick={() => sett(n)}>submit</button> ```
-this will manipulate the data to get the required output in "res" after rerender 
+**this will manipulate the data to get the required output in "res" after rerender **
 
 
 Created with CodeSandbox
