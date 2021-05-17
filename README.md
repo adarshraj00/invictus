@@ -1,6 +1,6 @@
 # invictus
-
-``` import { useEffect, useState } from "react";```
+## [netlify link](https://invictus11812708.netlify.app/)
+``` import { useEffect,useState } from "react";```
 imported hooks to be used
 
 ```  let [sortedhash, set] = useState([]);
